@@ -1,5 +1,7 @@
 # Customer Churn Prediction
 
+[🇧🇷 Versão em Português](README.pt-BR.md)
+
 ## Project Overview
 
 This project analyzes customer churn using the **IBM Telco Customer Churn** dataset.
@@ -264,6 +266,7 @@ customer-churn-prediction/
 │   └── roc_curve.png
 │
 ├── README.md
+├── README.pt-BR.md
 └── requirements.txt
 ```
 
